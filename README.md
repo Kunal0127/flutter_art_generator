@@ -4,7 +4,7 @@ Flutter implimentation of openAI api to demonstrate art genreration.
 
 ## Getting Started
 
-- [Download APK]()
+- [Download APK](https://github.com/Kunal0127/flutter_art_generator/blob/4b369eb5fe9f715cfebe111d16d0eef536e1d0e7/apk/app-release.apk)
 
 ## all models from OpenAI
 
